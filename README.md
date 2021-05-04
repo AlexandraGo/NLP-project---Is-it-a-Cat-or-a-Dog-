@@ -12,5 +12,8 @@ We have used the technique **Image Data Generator** to decrease our overfitting 
 
 
 
-To see the whole process please go to: HR_business project.ipynb 
+To see the whole process please go to: NLP project_ is it a Cat or Dog.ipynb 
 
+
+
+![](images/
