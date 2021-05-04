@@ -16,4 +16,4 @@ To see the whole process please go to: NLP project_ is it a Cat or Dog.ipynb
 
 
 
-![](images/
+![](picture_git_hub.png)
