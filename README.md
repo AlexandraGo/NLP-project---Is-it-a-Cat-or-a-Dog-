@@ -10,10 +10,8 @@ We are aware that our model still has some overfitting, however not better resul
 
 We have used the technique **Image Data Generator** to decrease our overfitting (which it did) **Image Data Generator** is a technique used to avoid overfitting  by expanding/alterating artifically our datset i.e: increase the scale of the pictures by 50 x 50, or rotate the images or cropping the pictures.
 
+Outcome:
+![](picture_git_hub.png)
 
 
 To see the whole process please go to: NLP project_ is it a Cat or Dog.ipynb 
-
-
-
-![](picture_git_hub.png)
