@@ -1,4 +1,5 @@
-# NLP-project---Is-it-a-Cat-or-a-Dog-
+# NLP project Is it a Cat or a Dog?
+
 **Neural Networks Project that predicts if the image is a Cat or a Dog.**
 
 
